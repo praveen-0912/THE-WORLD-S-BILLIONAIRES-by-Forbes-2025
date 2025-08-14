@@ -20,3 +20,6 @@ The objective of this dashboard is to provide a comprehensive overview of the wo
 ## Dashboard
 
 <img width="1917" height="1078" alt="Billionaires dashboard" src="https://github.com/user-attachments/assets/af50155e-d42e-4ced-9bdf-fc62642fdda8" />
+
+## Project Conclusion
+The dashboard effectively consolidates key billionaire metrics into a visually engaging, interactive format. It highlights the dominance of certain countries (e.g., United States at 34.7% of billionaires) and reveals industry-specific wealth concentration patterns. With slicers enabling real-time filtering, decision-makers can quickly shift perspectives from global overviews to focused industry or country insights. This makes the dashboard a valuable tool for economic analysts, investors, and policy planners seeking to understand global wealth dynamics.
