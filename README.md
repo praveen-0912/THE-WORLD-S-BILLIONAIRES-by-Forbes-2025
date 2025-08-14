@@ -4,16 +4,14 @@ The objective of this dashboard is to provide a comprehensive overview of the wo
 ## Dataset used
 -<a href="https://github.com/praveen-0912/THE-WORLD-S-BILLIONAIRES-by-Forbes-2025/blob/main/Billionare%20dataset.xlsx">Dataset</a>
 ## KPI (Questions)
--KPI Cards – Total billionaires, Total net worth
-
--Tree Map – Count of source by net worth
-
--Bar Chart (Vertical/Horizontal) – Count of billionaires by country
-
--Pie Chart – Percentage share of billionaires by country
-
--Bar Chart – Net worth by individual name
-
--Slicers – Country/Territory filter, Source filter
+-KPI Cards – Total billionaires, Total net worth?
+-Tree Map – Count of source by net worth?
+-Bar Chart (Vertical/Horizontal) – Count of billionaires by country?
+-Pie Chart – Percentage share of billionaires by country?
+-Bar Chart – Net worth by individual name?
+-Slicers – Country/Territory filter, Source filter?
 
 -Dashboard  <a href="https://github.com/praveen-0912/THE-WORLD-S-BILLIONAIRES-by-Forbes-2025/blob/main/Billionaires%20dashboard.png">View Dashboard</a>
+## Dashboard
+
+<img width="1917" height="1078" alt="Billionaires dashboard" src="https://github.com/user-attachments/assets/af50155e-d42e-4ced-9bdf-fc62642fdda8" />
