@@ -11,7 +11,7 @@ The objective of this dashboard is to provide a comprehensive overview of the wo
     -Bar Chart – Net worth by individual name?
     -Slicers – Country/Territory filter, Source filter?
 
-  -Dashboard  <a href="https://github.com/praveen-0912/THE-WORLD-S-BILLIONAIRES-by-Forbes-2025/blob/main/Billionaires%20dashboard.png">View Dashboard</a>
+  -Dashboard Interaction <a href="https://github.com/praveen-0912/THE-WORLD-S-BILLIONAIRES-by-Forbes-2025/blob/main/Billionaires%20dashboard.png">View Dashboard</a>
 ## Dashboard
 
 <img width="1917" height="1078" alt="Billionaires dashboard" src="https://github.com/user-attachments/assets/af50155e-d42e-4ced-9bdf-fc62642fdda8" />
